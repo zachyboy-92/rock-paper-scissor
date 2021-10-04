@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 
 //create a function where the game will be played
 //create a value that will return the players pressed button
